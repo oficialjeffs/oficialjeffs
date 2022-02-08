@@ -1,6 +1,6 @@
 ## Olá, me chamo Jefferson/Jeff! Sou estudande back-end, e este é meu perfil.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oficialjeffs&color=red" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oficialjeffs&color=yellow" alt="Profile views" /> </p>
 <div align="centro">
   <a href="https://github.com/oficialjeffs">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oficialjeffs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
