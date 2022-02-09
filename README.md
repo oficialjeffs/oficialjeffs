@@ -1,4 +1,4 @@
-## Olá, me chamo Jefferson/Jeff! Sou estudande back-end, e este é meu perfil.
+## Olá, me chamo Jefferson/Jeff! Sou estudande de programação, e este é meu perfil.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oficialjeffs&color=yellow" alt="Profile views" /> </p>
 <div align="centro">
