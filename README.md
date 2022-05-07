@@ -4,8 +4,11 @@
 <div align="centro">
   <a href="https://github.com/oficialjeffs">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oficialjeffs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialjeffs&layout=compact&langs_count=7&theme=dark"/>
+  
 </div>
+  <a href = "https://github.com/yasminwz/github-readme-stats">
+  <img align = "center" width="305" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialjeffs&langs_count=7&theme=omni&show_icons=true&include_all_commits=true"/>
+</a>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Jeff-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -14,6 +17,7 @@
   <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Jeff-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
   
+    
 
     
 </div>
