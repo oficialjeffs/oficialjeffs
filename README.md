@@ -1,12 +1,6 @@
 ## Olá, me chamo Jefferson/Jeff! Sou estudande de programação, e este é meu perfil.
 
 <!-- Painel 1 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oficialjeffs&color=yellow" alt="Profile views" /> </p>
-<div align="centro">
-  <a href="https://github.com/oficialjeffs">
-  <img height="150em" width="410px" src="https://github-readme-stats.vercel.app/api?username=oficialjeffs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-<!-- Painel 2 -->
 </div>
   <a href = "https://github.com/yasminwz/github-readme-stats">
   <img align = "center" width="410" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialjeffs&langs_count=7&theme=dark&include=true&include_all_commits=true"/>
