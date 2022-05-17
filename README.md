@@ -1,10 +1,6 @@
 ## Olá, me chamo Jefferson/Jeff! Sou estudande de programação, e este é meu perfil.
 
-<!-- Painel 1 -->
-</div>
-  <a href = "https://github.com/yasminwz/github-readme-stats">
-  <img align = "center" width="410" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oficialjeffs&langs_count=7&theme=dark&include=true&include_all_commits=true"/>
-</a>
+
   
 <!-- Stacks -->
   
