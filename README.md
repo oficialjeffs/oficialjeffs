@@ -1,4 +1,4 @@
-## Olá, me chamo Jefferson/Jeff! Sou estudande de programação, e este é meu perfil.
+## Olá, me chamo Jefferson/Jeff! Sou Gestor de Tráfego e desenvolvedor por hobby, e este é meu perfil.
 
 
   
